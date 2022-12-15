@@ -1,5 +1,5 @@
 - 👋 Hola, mi nombre des Dario Walter Carrizo
-- 👀 I’m interested in ...
+- 👀 
 - 🌱 Actualmente estoy cursando la  tecnicatura superior  en programacion
 - 💞️ Me interesa coloborar en proyectos que me permitan seguir creciendo en el mundo de la programacion..
 - 📫 
