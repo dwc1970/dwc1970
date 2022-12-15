@@ -1,8 +1,8 @@
 - 👋 Hola, mi nombre des Dario Walter Carrizo
 - 👀 I’m interested in ...
-- 🌱 I’m currently  cursando la  tecnicatura superior  en programacion
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Actualmente estoy cursando la  tecnicatura superior  en programacion
+- 💞️ Me interesa coloborar en proyectos que me permitan seguir creciendo en el mundo de la programacion..
+- 📫 
 
 <!---
 dwc1970/dwc1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
