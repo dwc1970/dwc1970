@@ -19,3 +19,4 @@
 dwc1970/dwc1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://user-images.githubusercontent.com/108595018/232139455-d77946b1-da91-4ca5-a0e8-54a96727b924.png)
