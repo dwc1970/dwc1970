@@ -1,7 +1,8 @@
 - 👋 Dario Walter Carrizo
-- 
+- ![NvN](https://github.com/dwc1970/dwc1970/assets/108595018/c31ee8f6-ec60-4064-86fd-3ffbcd32ee8d)
+
 - 👀 <*> Soy Dario Walter Carrizo, un desarrollador junior en formación apasionado por la programación y los desafíos que esta conlleva. Con una sólida formación en   tecnologías como Python, Java y HTML/CSS, he participado en diversas formaciones en línea, sumando más de 200 horas de aprendizaje continuo. Siempre estoy buscando oportunidades para mejorar mis habilidades y aprender nuevas tecnologías. Soy una persona abierta al crecimiento constante, y me encanta trabajar en equipo para lograr objetivos y resolver problemas.<\>
-- 
+
 - 🌱 Actualmente estoy cursando la  tecnicatura superior  en programacion
 - 💞️ Me interesa coloborar en proyectos que me permitan seguir creciendo en el mundo de la programacion..
 - 📫 Formaciones
